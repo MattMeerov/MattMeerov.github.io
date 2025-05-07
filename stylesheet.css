@@ -1,4 +1,28 @@
+* {margin: 10; padding: 10;}
+
 h1{color: hsl(0, 100%, 27%);}
+
+#wrapper {
+  width: 80%;
+  padding: 5%;
+  margin: auto;
+}
+  
+.columns {float:left;}
+
+.col-4 {width: 33.33%;}
+
+div#header{ 
+  position:sticky;
+  z-index: 1;
+}
+
+div#bio {
+  height: 80%;
+  width: 80%;
+  margin: auto;
+  overflow: auto;
+}
 
 body{
 
