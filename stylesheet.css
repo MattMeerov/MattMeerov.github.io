@@ -2,6 +2,8 @@
 
 h1{color: hsl(0, 100%, 27%);}
 
+
+
 #wrapper {
   width: 80%;
   padding: 5%;
@@ -67,3 +69,28 @@ html{
   background-repeat: no-repeat;
 
 }
+
+@media only screen and (max-width: 400px) {
+
+    .col-4 {
+
+      width: 100%;
+      text-align: center;
+
+    }
+
+    #wrapper {
+      width: 95%;
+      padding: 5%;
+      margin: auto;
+    }
+  
+    ul{
+      line-height: 110%; 
+      text-decoration-line: initial;
+      text-align: left;
+      text-transform: none;
+      list-style-type: square;
+  }
+
+} 
