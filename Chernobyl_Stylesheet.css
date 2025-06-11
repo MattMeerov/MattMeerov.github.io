@@ -6,8 +6,8 @@ h1{color: hsl(0, 100%, 27%);}
 
 #wrapper {
   width: 80%;
-  padding: 5%;
-  margin: auto;
+  padding: 10%;
+  margin: 40px;
 }
   
 .columns {float:none;}
