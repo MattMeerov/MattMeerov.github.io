@@ -5,7 +5,7 @@ header{
   font-family: "Special Gothic", sans-serif;
       font-weight: 800;
       font-style: bold;
-      color: crimson;
+      color: rgb(214,37,43);
 }
 
 
@@ -60,7 +60,7 @@ body{
 
 
   a:link {color:rgb(75, 120, 102)}
-  a:visited {color: rgb(184, 0, 0);}
+  a:visited {color: rgb(255, 84, 84);}
   a:hover {color: rgb(255, 213, 0);}
 
 html{    
