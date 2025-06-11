@@ -1,4 +1,4 @@
-* {margin: 40px; padding: 40px;}
+* {margin: none; padding: 40px;}
 
 header{
     color: rgb(255, 0, 0);
@@ -13,7 +13,7 @@ header{
   margin: auto;
 }
   
-.columns {float:left;}
+.columns {float:center;}
 
 .col-4 {width: 50%;}
 
