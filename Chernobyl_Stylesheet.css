@@ -1,6 +1,6 @@
 * {margin: 10; padding: 10;}
 
-h1{color: hsl(0, 83%, 48%);}
+header{color: crimson;}
 
 
 
@@ -12,7 +12,7 @@ h1{color: hsl(0, 83%, 48%);}
   
 .columns {float:none;}
 
-.col-4 {width: 50%;}
+.col-2 {width: 50%;}
 
 div#header{ 
   position:sticky;
@@ -29,9 +29,9 @@ div#bio {
 body{
 
       font-family: "Special Gothic", sans-serif;
-      font-weight: 400;
+      font-weight: 800;
       font-style: bold;
-      color: rgb(187, 0, 0);
+      color: crimson;
 
   }
 
@@ -58,9 +58,9 @@ article{
 
 }
 
-  a:link {color:lightskyblue}
-  a:visited {color: plum;}
-  a:hover {color: yellow;}
+  a:link {color:rgb(75, 120, 102)}
+  a:visited {color: rgb(184, 0, 0);}
+  a:hover {color: rgb(255, 213, 0);}
 
 html{    
 
